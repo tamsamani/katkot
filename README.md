@@ -1,2 +1,1 @@
-# katkot
-it's special apps
+this project is under construct now
